@@ -1,0 +1,14 @@
+C:\ООП\4LAB\4LAB\bin\Debug\net6.0\4LAB.exe
+C:\ООП\4LAB\4LAB\bin\Debug\net6.0\4LAB.deps.json
+C:\ООП\4LAB\4LAB\bin\Debug\net6.0\4LAB.runtimeconfig.json
+C:\ООП\4LAB\4LAB\bin\Debug\net6.0\4LAB.dll
+C:\ООП\4LAB\4LAB\bin\Debug\net6.0\4LAB.pdb
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.AssemblyInfoInputs.cache
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.AssemblyInfo.cs
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.csproj.CoreCompileInputs.cache
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.dll
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\refint\4LAB.dll
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.pdb
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\4LAB.genruntimeconfig.cache
+C:\ООП\4LAB\4LAB\obj\Debug\net6.0\ref\4LAB.dll
